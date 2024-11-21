@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "fgmdf",
+  "title": "Fgmdf",
+  "category": "theme_blocks",
+  "description": "fgmdf",
+  "keywords": [
+    "fgmdf",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {},
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  }
+}

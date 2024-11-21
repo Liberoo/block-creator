@@ -1,0 +1,80 @@
+{
+  "key": "group_ajCJBeG4o4M6z",
+  "title": "[block] d",
+  "fields": [
+    {
+      "key": "field_abc123def4567",
+      "label": "Person",
+      "name": "person",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "",
+      "placeholder": "",
+      "prepend": "",
+      "append": "",
+      "maxlength": ""
+    },
+    {
+      "key": "field_xyz789ghi0123",
+      "label": "Heading",
+      "name": "heading",
+      "aria-label": "",
+      "type": "clone",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "clone": [
+        "field_a1b2c3d4e5f6g",
+        "field_h7i8j9k0l1m2n",
+        "field_o3p4q5r6s7t8u",
+        "field_v9w0x1y2z3a4b",
+        "field_c5d6e7f8g9h0i",
+        "field_j1k2l3m4n5o6p",
+        "field_q7r8s9t0u1v2w",
+        "field_x3y4z5a6b7c8d",
+        "field_e9f0g1h2i3j4k",
+        "field_l5m6n7o8p9q0r",
+        "field_s1t2u3v4w5x6y",
+        "field_z7a8b9c0d1e2f",
+        "field_g3h4i5j6k7l8m",
+        "field_n9o0p1q2r3s4t"
+      ],
+      "display": "seamless",
+      "layout": "block",
+      "prefix_label": 0,
+      "prefix_name": 0
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "block",
+        "operator": "==",
+        "value": "d"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0,
+  "modified": 1707233314
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "key": "group_U1lB5nxFHoAqE",
+  "title": "[block] husa",
+  "fields": [
+    {
+      "key": "field_66faaefa89363",
+      "label": "Kamil",
+      "name": "kamil",
+      "type": "text"
+    },
+    {
+      "key": "field_55b7caffc8a31",
+      "label": "Objective",
+      "name": "objective",
+      "type": "clone",
+      "clone": [
+        "field_66f9adcb23dfe"
+      ]
+    }
+  ]
+}
+```

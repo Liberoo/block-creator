@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "vsd",
+  "title": "Vsd",
+  "category": "theme_blocks",
+  "description": "vsd",
+  "keywords": [
+    "vsd",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {},
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  }
+}

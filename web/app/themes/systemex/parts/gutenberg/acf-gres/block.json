@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gres",
+  "title": "Gres",
+  "category": "theme_blocks",
+  "description": "gres",
+  "keywords": [
+    "gres",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {
+    "jsx": true,
+    "align": true
+  },
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  },
+  "viewScript": [
+    "acf-gres",
+    "splide",
+    "micromoadl"
+  ],
+  "editorScript": [
+    "acf",
+    "acf-gres",
+    "splide",
+    "micromoadl"
+  ]
+}

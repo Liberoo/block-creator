@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "gresss",
+  "title": "Gresss",
+  "category": "theme_blocks",
+  "description": "gresss",
+  "keywords": [
+    "gresss",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {
+    "jsx": true
+  },
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  },
+  "viewScript": [
+    "acf-gresss",
+    "splide"
+  ],
+  "editorScript": [
+    "acf",
+    "acf-gresss",
+    "splide"
+  ]
+}

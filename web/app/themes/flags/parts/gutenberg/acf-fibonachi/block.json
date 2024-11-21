@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "fibonachi",
+  "title": "Fibonachi",
+  "category": "theme_blocks",
+  "description": "fibonachi",
+  "keywords": [
+    "fibonachi",
+    "content"
+  ],
+  "textdomain": "flags",
+  "supports": {
+    "jsx": true
+  },
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  },
+  "viewScript": [
+    "acf-fibonachi",
+    "splide",
+    "micromodal"
+  ],
+  "editorScript": [
+    "acf",
+    "acf-fibonachi",
+    "splide",
+    "micromodal"
+  ]
+}

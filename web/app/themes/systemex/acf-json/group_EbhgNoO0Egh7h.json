@@ -1,0 +1,64 @@
+{
+  "key": "group_EbhgNoO0Egh7h",
+  "title": "[block] fgmdf",
+  "fields": [
+    {
+      "key": "field_374c834e12e9c",
+      "label": "Kamilek",
+      "name": "kamilek",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      }
+    },
+    {
+      "key": "field_847c56e2391fd",
+      "label": "Klon",
+      "name": "klon",
+      "aria-label": "",
+      "type": "clone",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "clone": [
+        "field_66e2fdcb544df",
+        "field_66e2fdcb544e0"
+      ],
+      "display": "seamless",
+      "layout": "block",
+      "prefix_label": 0,
+      "prefix_name": 0
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "block",
+        "operator": "==",
+        "value": "fgmdf"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0,
+  "modified": 1707233314
+}
+In the context provided, key "field_66e2fdcb544df" matches the clone field name text:kolor and key "field_66e2fdcb544e0" matches the clone field name text:heading as specified, based on their matching field type (text) and name.

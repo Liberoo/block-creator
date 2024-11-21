@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "22vwecewfwef",
+  "title": "22vwecewfwef",
+  "category": "theme_blocks",
+  "description": "22vwecewfwef",
+  "keywords": [
+    "22vwecewfwef",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {},
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  }
+}

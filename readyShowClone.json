@@ -1,0 +1,87 @@
+[
+  {
+    "Key": "field_66e2fdcb544df",
+    "Type": "text",
+    "Label": "Heading",
+    "Name": "heading"
+  },
+  {
+    "Key": "field_66e2fde6544e0",
+    "Type": "text",
+    "Label": "Description",
+    "Name": "description"
+  },
+  {
+    "Key": "field_66e2fdf1544e1",
+    "Type": "image",
+    "Label": "Icon",
+    "Name": "icon",
+    "ReturnFormat": "id"
+  },
+  {
+    "Key": "field_QAZPLMOIUYTRE",
+    "Type": "number",
+    "Label": "Dog Age",
+    "Name": "dog_age"
+  },
+  {
+    "Key": "field_WERTYUIOPLKJH",
+    "Type": "text",
+    "Label": "Person Name",
+    "Name": "person_name"
+  },
+  {
+    "Key": "field_vT1dF7gI23kQw",
+    "Type": "text",
+    "Label": "Name",
+    "Name": "name"
+  },
+  {
+    "Key": "field_TN8hH3vI45jRw",
+    "Type": "text",
+    "Label": "Player Name",
+    "Name": "player_name"
+  },
+  {
+    "Key": "field_kL8mN6pJ72dWx",
+    "Type": "number",
+    "Label": "Dog Age",
+    "Name": "dog_age"
+  },
+  {
+    "Key": "field_Xyz9Pd7QrGvL3",
+    "Type": "text",
+    "Label": "Game Name",
+    "Name": "game_name"
+  },
+  {
+    "Key": "field_vB8nO2xN3yL4z",
+    "Type": "text",
+    "Label": "Cyber Game",
+    "Name": "cyber_game"
+  },
+  {
+    "Key": "field_L0pN9M3Q4d8X1",
+    "Type": "text",
+    "Label": "Cybermarian",
+    "Name": "cybermarian"
+  },
+  {
+    "Key": "field_PLM9ijQW87zxv",
+    "Type": "text",
+    "Label": "Rodzaj Gry",
+    "Name": "rodzaj_gry"
+  },
+  {
+    "Key": "field_y9AfqU1NdVp6x",
+    "Type": "text",
+    "Label": "Kolor",
+    "Name": "kolor"
+  },
+  {
+    "Key": "field_Od98Q7BFafqU1",
+    "Type": "number",
+    "Label": "Poligrafia",
+    "Name": "poligrafia"
+  }
+]

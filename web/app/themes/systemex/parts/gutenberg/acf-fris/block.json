@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "fris",
+  "title": "Fris",
+  "category": "theme_blocks",
+  "description": "fris",
+  "keywords": [
+    "fris",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {
+    "jsx": true
+  },
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  }
+}

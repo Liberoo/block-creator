@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "slider",
+  "title": "Slider",
+  "category": "theme_blocks",
+  "description": "slider",
+  "keywords": [
+    "slider",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {
+    "jsx": true,
+    "align": true
+  },
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  },
+  "viewScript": [
+    "acf-slider",
+    "splide",
+    "micromodal"
+  ],
+  "editorScript": [
+    "acf",
+    "acf-slider",
+    "splide",
+    "micromodal"
+  ]
+}

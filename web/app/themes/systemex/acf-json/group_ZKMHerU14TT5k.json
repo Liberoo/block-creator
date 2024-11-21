@@ -1,0 +1,26 @@
+```json
+{
+  "key": "group_ZKMHerU14TT5k",
+  "title": "[block] fds",
+  "fields": [
+    {
+      "key": "field_abc123456789a",
+      "label": "Decoration",
+      "name": "decoration",
+      "type": "text"
+    },
+    {
+      "key": "field_xyz123456789b",
+      "label": "Kamil",
+      "name": "kamil",
+      "type": "clone",
+      "clone": [
+        "field_color_key_1",
+        "field_color_key_2"
+      ]
+    }
+  ]
+}
+```
+
+In this JSON structure, the "text:decoration" field is represented as a text field with a unique key and a label/name formatted accordingly. The "clone:kamil(text:color)" field is represented as a clone field with the label "Kamil", name "kamil", and includes an array with placeholder keys for fields that match the type "text" and name "color". You'll need to replace `"field_color_key_1"` and `"field_color_key_2"` with the actual keys of the fields if available. If none of the actual fields match the criteria specified in the "clone" requirement, the clone array would be left empty.

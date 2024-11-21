@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "d",
+  "title": "D",
+  "category": "theme_blocks",
+  "description": "d",
+  "keywords": [
+    "d",
+    "content"
+  ],
+  "textdomain": "systemex",
+  "supports": {},
+  "icon": "welcome-widgets-menus",
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "index.php"
+  }
+}
